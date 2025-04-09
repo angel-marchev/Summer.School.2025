@@ -1,7 +1,7 @@
 
-# Summer School on Modeling, AI, and Complex Systems '2024
+# Summer School on Modeling, AI, and Complex Systems '2025
 
-<img src="img/summer-school-2024-2.jpg" width="100%">
+<!-- <img src="img/summer-school-2024-2.jpg" width="100%"> -->
 
 **Organized by**
 
@@ -14,14 +14,17 @@
     <th><img src="img/small_logo_unwe.png" width="100"></th>
     <td>FMA Faculty of Management and Administration, University for National and World Economy<br><a href="https://faculties.unwe.bg/management/en/pages/1590/history.html">https://faculties.unwe.bg/management/en/</a></td>
   </tr>
-    <tr>
+  <!--
+  <tr>
     <th><img src="img/fisn.jpg" height="50"><img src="img/exante.png" height="50"></th>
     <td>FESS Faculty of Economics and Social Sciences, Plovdiv University "St. Paisii Hilendarski" <br>Project Exante<br><a href="https://fisn.uni-plovdiv.bg/">https://fisn.uni-plovdiv.bg/</a></td>
    </tr>
+  
   <tr>
     <th><img src="img/small_logo_fdiba.png"></th>
     <td>FDIBA German Engineering and Industrial Management Faculty, Technical University - Sofia<br><a href="https://fdiba.tu-sofia.bg/">https://fdiba.tu-sofia.bg/</a></td>
    </tr>
+   -->
  </table>
 
 
@@ -29,13 +32,17 @@
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
+    <!--
     <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>
     <th><img src="img/manasievi.jpg" width="200"></th>
+    -->
     <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=SummerSchoolPartnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
   </tr>
   <tr>
+    <!--
     <td>KBC Bank</td>
     <td>Svetlozar & Emanuil Manasievi</td>
+    -->
     <td></td>
   </tr>
  </table>
@@ -55,23 +62,23 @@ Associate Partners
 -->
 ## Acknowledgements 
 This Summer school is partially funded by:  
-* ***Science and research Fund at Sofia University contract 80-10-107/16.4.2024***  
-* ***University of National and World Economy contract NID NF-10/2024/B***   
-* ***European Union-NextGenerationEU, through the National Recovery and Resilience Plan of the Republic of Bulgaria, project DUECOS BG-RRP-2.004-0001-C01***  
+* ***Science and research Fund at Sofia University***  
+* ***University of National and World Economy contract NID NF-11/2025/B***   
+
 
   
 ## Application  
  
-**Location**: Educational and scientific base base Cvetan Bonchev - Gyulechica, Rila Mountain, Bulgaria  
+**Location**: The Seven Rila Lakes Hut, Rila Mountain, Bulgaria  
   
-**Time**: June 21 - June 30, 2024   
+**Time**: June 20 - June 29, 2025   
   
 **Target audience**: PhD students in their first 18 months and advanced graduates (master students).   
   
 **Official language**: For written materials - Bulgarian or English, for lectures - Bulgarian.  
   
-**Application**: <!--**<span style="color: red;">EXTENDED</span>**--> Deadline for student application is June 01, 2024 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9).    
-Only some applications would be approved, who will be notified by e-mail on June 06 and will recieve further instructions.    
+**Application**: <!--**<span style="color: red;">EXTENDED</span>**--> Deadline for student application is May 15, 2025 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9).    
+Only some applications would be approved, who will be notified by e-mail on June 02 and will recieve further instructions.    
 Participation in the Summer school is free of charge (accomodation is partially covered by the the organizers - read further).  
 
 
@@ -85,7 +92,7 @@ Participation in the Summer school is free of charge (accomodation is partially 
 **Concept**: Intensive training in methods (not so much applications) through lectures, workshops and team work on projects.  
   
 ## Accomodation  
-**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **18:30, on 21 June, Friday**, at the main entrance of the complex.    
+**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **18:30, on 20 June, Friday**, at the base station of the lift.    
   
 **Accommodation**: The students are accommodated in pairs / threes / fours in a room in the complex. Accomodation and full meals are aranged (the cost per person per night is to be finalized soon). Out of which reasonable part **is covered by the organizers** (further financial details will be revieled in June). The layout of the rooms will be set by the organizers and can not be changed.   
   
