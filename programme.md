@@ -104,17 +104,20 @@ The programme is subject to constant change, so make sure to check it regularly.
   
 
 ## **2025-06-25 Applications**  
-  09:30 - 11:00 TBD <!--Milen Chechev - Current forecasting approaches and challenges (Online)  
+  09:30 - 11:00 TBD  
+  <!--Milen Chechev - Current forecasting approaches and challenges (Online)  
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](chechev/readme.md)-->   
 <a/>  
 
-  11:30 - 13:00 TBD <!--Martin Boyanov - Introduction to LLMs, RAG & llm2vec  
+  11:30 - 13:00 TBD  
+  <!--Martin Boyanov - Introduction to LLMs, RAG & llm2vec  
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](boyanov/readme.md)-->   
 <a/>  
 
-  14:00 - 17:00 Workshop: TBD <!--Yasen Kiprov - AI for coding (Online)  
+  14:00 - 17:00 Workshop: TBD  
+  <!--Yasen Kiprov - AI for coding (Online)  
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](kiprov/readme.md)-->   
 <a/>  
@@ -133,7 +136,8 @@ The programme is subject to constant change, so make sure to check it regularly.
   * [materials](motzev/readme.md)-->   
 <a/>  
 
-  14:00 - 17:00 TBD <!--Workshop: Evgeni Marinov - Graph artificial neural networks (Online)  
+  14:00 - 17:00 TBD  
+  <!--Workshop: Evgeni Marinov - Graph artificial neural networks (Online)  
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](marinov/readme.md)-->   
 <a/>  
@@ -147,7 +151,8 @@ The programme is subject to constant change, so make sure to check it regularly.
   * [materials](marchev-jr/readme.md)-->   
 <a/>  
 
-  11:30 - 13:00 TBD <!--Laura Tolosi - LLMs & NLP (Online)   
+  11:30 - 13:00 TBD  
+  <!--Laura Tolosi - LLMs & NLP (Online)   
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](tolosi/readme.md)-->   
 <a/>  
@@ -180,7 +185,8 @@ The programme is subject to constant change, so make sure to check it regularly.
 
   
 ## **2025-06-29 Perspectives**  
-  09:30 - 11:00 TBD <!--Sergey Vichev - RAGSQL: the concept    
+  09:30 - 11:00 TBD  
+  <!--Sergey Vichev - RAGSQL: the concept    
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](vichev/readme.md)-->   
 <a/>  
@@ -192,7 +198,8 @@ The programme is subject to constant change, so make sure to check it regularly.
 <a/>  
 -->  
 
-  11:30 - 13:00 TBD <!--Nikolay Dimitrov - FetchAI: AI + Crypto (Online)   
+  11:30 - 13:00 TBD  
+  <!--Nikolay Dimitrov - FetchAI: AI + Crypto (Online)   
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)  
   * [materials](dimitrov/readme.md)-->   
 <a/>  
