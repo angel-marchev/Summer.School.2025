@@ -2,6 +2,7 @@
 # Summer School on Modeling, AI, and Complex Systems '2025
 
 <!-- <img src="img/summer-school-2024-2.jpg" width="100%"> -->
+<img src="https://preotkrii.bg/wp-content/uploads/2022/09/70358045_2931602786868277_6439002884125229056_n.jpg" width="100%">
 
 **Organized by**
 
@@ -69,7 +70,8 @@ This Summer school is partially funded by:
   
 ## Application  
  
-**Location**: The Seven Rila Lakes Hut, Rila Mountain, Bulgaria  
+**Location**: [The Rila Lakes Hut, Rila Mountain, Bulgaria](https://maps.app.goo.gl/Z8dcWHLX4DMoifxs8)  
+
   
 **Time**: June 20 - June 29, 2025   
   
@@ -144,7 +146,10 @@ All students should make sure to watch [these materials in advance...](https://w
 
 **Zoom class**: [http://bit.ly/marchev-zoom](http://bit.ly/marchev-class)
 
-**Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, and University of National and World Econmy. For questions: angel.marchev@feb.uni-sofia.bg, +359888444062  
+**Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with University of National and World Econmy. 
+<!--Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, and-->
+
+For questions: angel.marchev@feb.uni-sofia.bg, +359888444062  
 
 <img src="img/round.png" width="200px" align="right">  
 
@@ -157,15 +162,13 @@ All students should make sure to watch [these materials in advance...](https://w
 * Deyan Radev - SU (d.radev@feb.uni-sofia.bg)  
 * Evgeni Marinov - Bosch (marinov.evgeniy@gmail.com)   
 * Kaloyan Haralampiev - SU (k_haralampiev@hotmail.com)
-* Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)
+<!--* Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)
 * Martin Boyanov - Smule (mboyanov@gmail.com)
-* Milen Chechev - SU (milen.chechev@fmi.uni-sofia.bg)  
-* Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)
-* Nikolay Dimitrov - FetchAI (nikolay.dimitrov@fetch.ai)     
+* Milen Chechev - SU (milen.chechev@fmi.uni-sofia.bg)-->  
+* Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)  
 * Pavel Nikolov - Johnson Controls (pavelnnikolov@gmail.com)  
 * Petar Nikolov - CuneiForm (petarnikolov1989@gmail.com)
 * Radoslav Rusinov - UNWE (rusinovr@abv.bg)  
-* Sergey Vichev - CrispLabs (serjvichev@gmail.com)  
 * Stanimir Kabaivanov - PU (stanimir.kabaivanov@gmail.com)  
 * Tsvetana Spassova - ETH (tsvetana.spasova@fhnw.ch)  
 * Yasen Kiprov - SiteGround (yasen.kiprov@gmail.com)  
@@ -185,11 +188,13 @@ Summer School on Modeling and Complex Systems
 [ [2021](https://marchev-science.github.io/summer-school-2021/) ]
 [ [2022](https://marchev-science.github.io/summer-school-2022/) ]
 [ [2023](https://marchev-science.github.io/Summer.School.2023/) ]
+Summer School on Modeling, AI and Complex Systems  
+[ [2024](https://marchev-science.github.io/summer-school-2024/) ]
 
 ## Cases  
 The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
 
-<img src="img/summer-school-2024.jpg" width="100%">
+<!--<img src="img/summer-school-2024.jpg" width="100%">-->
 
 
 ## Programme  
