@@ -161,7 +161,7 @@ For questions: angel.marchev@feb.uni-sofia.bg, +359888444062
 * Demir Tonchev -  (tonchev.demir@gmail.com)
 * Deyan Radev - SU (d.radev@feb.uni-sofia.bg)  
 * Evgeni Marinov - Bosch (marinov.evgeniy@gmail.com)   
-* Kaloyan Haralampiev - SU (k_haralampiev@hotmail.com)
+* Kaloyan Haralampiev - SU (k_haralampiev@hotmail.com)  
 <!--* Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)
 * Martin Boyanov - Smule (mboyanov@gmail.com)
 * Milen Chechev - SU (milen.chechev@fmi.uni-sofia.bg)-->  
@@ -187,9 +187,9 @@ Summer School on Research Methods
 Summer School on Modeling and Complex Systems  
 [ [2021](https://marchev-science.github.io/summer-school-2021/) ]
 [ [2022](https://marchev-science.github.io/summer-school-2022/) ]
-[ [2023](https://marchev-science.github.io/Summer.School.2023/) ]
+[ [2023](https://marchev-science.github.io/Summer.School.2023/) ]   
 Summer School on Modeling, AI and Complex Systems  
-[ [2024](https://marchev-science.github.io/summer-school-2024/) ]
+[ [2024](https://marchev-science.github.io/summer-school-2024/) ]   
 
 ## Cases  
 The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
