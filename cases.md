@@ -1,7 +1,8 @@
 ## The cases for this year's Summer school are:
 
-The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 22.06.2024): 
- 
+The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 21.06.2025): 
+
+<!--
 ### 1. Forecasting the demand of pharmacutical products.  
 
 [Case text and data...](https://github.com/Marchev-Science/case-forecasting-pharmacutical-demand)
@@ -45,5 +46,5 @@ In the code or in additional files (or markdown texts) there should be:
 5. Each team will be given about 15-20 minutes to present their solutions followed by Q&A session.  
 
 
-
+-->
 
